@@ -1,5 +1,7 @@
 Download the raw data from the POWERBI asignment section to check the Dashboard
- Q1. Power BI Platform 
+
+ 
+Q1. Power BI Platform 
 What is PowerBI and What are the various Platforms of Power BI? 
 
 Q2. Dax
