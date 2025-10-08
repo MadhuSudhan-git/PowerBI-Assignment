@@ -1,5 +1,4 @@
-Power BI Assignment Questions
-Note: Solve all the powerbi assignments in a single Powerbi workbook and submit your assignment in .pbix format only.
+Download the raw data from the POWERBI asignment section to check the Dashboard
  Q1. Power BI Platform 
 What is PowerBI and What are the various Platforms of Power BI? 
 
